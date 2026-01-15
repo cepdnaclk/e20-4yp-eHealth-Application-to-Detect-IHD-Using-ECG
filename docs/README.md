@@ -1,26 +1,22 @@
 ---
 layout: home
 permalink: index.html
-
-# Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e20-4yp-eHealth-Application-to-Detect-IHD-Using-ECG
+title: e-Health Application for Detecting Ischemic Heart Disease Using 12-Lead ECG
 ---
 
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
-
-# Project Title
+# e-Health Application for Detecting Ischemic Heart Disease Using 12-Lead ECG
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- e20342, Chamath Rupasinghe, [email](mailto:e20342@eng.pdn.ac.lk)
+- e20054, Rubin De Croos, [email](mailto:e20054@eng.pdn.ac.lk)
+- e20276, Padeniya S.M.N.N., [email](mailto:e20276@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Isuru Nawinne, [email](mailto:isurunawinne@eng.pdn.ac.lk)
+- Isuri Devindi, [email](mailto:isurid@eng.pdn.ac.lk)
 
 #### Table of content
 
