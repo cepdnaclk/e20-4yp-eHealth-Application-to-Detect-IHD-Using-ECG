@@ -9,14 +9,14 @@ title: e-Health Application for Detecting Ischemic Heart Disease Using 12-Lead E
 
 #### Team
 
-- e20342, Chamath Rupasinghe, [email](mailto:e20342@eng.pdn.ac.lk)
-- e20054, Rubin De Croos, [email](mailto:e20054@eng.pdn.ac.lk)
-- e20276, Padeniya S.M.N.N., [email](mailto:e20276@eng.pdn.ac.lk)
+- e20342, Chamath Rupasinghe, [e20342@eng.pdn.ac.lk](mailto:e20342@eng.pdn.ac.lk)
+- e20054, Rubin De Croos, [e20054@eng.pdn.ac.lk](mailto:e20054@eng.pdn.ac.lk)
+- e20276, Padeniya S.M.N.N., [e20276@eng.pdn.ac.lk](mailto:e20276@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Dr. Isuru Nawinne, [email](mailto:isurunawinne@eng.pdn.ac.lk)
-- Isuri Devindi, [email](mailto:isurid@eng.pdn.ac.lk)
+- Dr. Isuru Nawinne, [isurunawinne@eng.pdn.ac.lk](mailto:isurunawinne@eng.pdn.ac.lk)
+- Isuri Devindi, [isurid@eng.pdn.ac.lk](mailto:isurid@eng.pdn.ac.lk)
 
 #### Table of content
 
